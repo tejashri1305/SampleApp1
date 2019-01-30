@@ -1,0 +1,17 @@
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\ApplicationInsights.config
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\NameApplicationSampleTests.dll
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\NameApplicationSampleTests.pdb
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\NameApplicationSample.dll
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\System.Web.Optimization.dll
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\NameApplicationSample.pdb
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\NameApplicationSample.dll.config
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\System.Web.Optimization.xml
+D:\SampleApp1\NameApplicationSampleTests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\SampleApp1\NameApplicationSampleTests\obj\Debug\NameApplicationSampleTests.csprojAssemblyReference.cache
+D:\SampleApp1\NameApplicationSampleTests\obj\Debug\NameApplicationSampleTests.csproj.CoreCompileInputs.cache
+D:\SampleApp1\NameApplicationSampleTests\obj\Debug\NameApplicationSampleTests.csproj.CopyComplete
+D:\SampleApp1\NameApplicationSampleTests\obj\Debug\NameApplicationSampleTests.dll
+D:\SampleApp1\NameApplicationSampleTests\obj\Debug\NameApplicationSampleTests.pdb
