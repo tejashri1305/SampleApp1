@@ -2,7 +2,7 @@ param(
 
        # Getting the control percentage as an argument
 
-       [int] $desiredCodeCoveragePercent=95
+       [int] $desiredCodeCoveragePercent=0
 
 )
 
